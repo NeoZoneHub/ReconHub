@@ -81,10 +81,13 @@ Auto-loader détecte tous les modules du dossier modules/
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTRvOWd6bmd0M3VyeHU0aWtienNtemFja21tczIyOG8xM3hmM214bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" alt="Cyber animation" width="40%">
 </p>
+
 ⚡ Dépendances
+
 ```bash
 pip install requests dnspython rich whois
 ```
+
 > ✅ Toutes légères et compatibles Termux/Linux/Windows
 
 🛠 Credits & Digital Crew
