@@ -45,6 +45,7 @@ cd ReconHub
 pip install -r requirements.txt
 python reconhub.py
 ```
+
 Linux / macOS
 ```bash
 sudo apt update && sudo apt upgrade -y
@@ -54,6 +55,7 @@ cd ReconHub
 pip3 install -r requirements.txt
 python3 reconhub.py
 ```
+
 Windows (PowerShell)
 ```bash
 git clone https://github.com/NeoZoneHub/ReconHub.git
@@ -76,29 +78,22 @@ Auto-loader détecte tous les modules du dossier modules/
 
 💻 Animations ASCII/GIF et badges pour UX futuriste
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cyber animation" width="50%">
-</p>
-
-
-⚡ Dépendances
-
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTRvOWd6bmd0M3VyeHU0aWtienNtemFja21tczIyOG8xM3hmM214bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" alt="Cyber animation" width="40%">
+</p>⚡ Dépendances
+```bash
 pip install requests dnspython rich whois
-
+```
 > ✅ Toutes légères et compatibles Termux/Linux/Windows
-
 
 🛠 Credits & Digital Crew
 
 <p align="center">
   <strong style="color:#00fff7;">𓆩 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐂𝐫𝐞𝐰 𝟐𝟒𝟑 𓆪</strong>  
   <em style="color:#ff00aa;">Graphismes, Design et développement ReconHub</em>
-</p>
-
-<p align="center">
+</p><p align="center">
   <strong style="color:#00fff7;">“Fast • Deep • Accurate”</strong><br>
   <em style="color:#ff00aa;">Scan • Intel • Explore • Dominate</em>
 </p><p align="center">
-  <a href="https://github.com/NeoZoneHub/ReconHub"><img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTRvOWd6bmd0M3VyeHU0aWtienNtemFja21tczIyOG8xM3hmM214bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" alt="GitHub"></a>
+  <a href="https://github.com/NeoZoneHub/ReconHub"><img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTRvOWd6bmd0M3VyeHU0aWtienNtemFja21tczIyOG8xM3hmM214bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" alt="GitHub" width="40%"></a>
 </p>
