@@ -100,5 +100,5 @@ pip install requests dnspython rich whois
   <strong style="color:#00fff7;">“Fast • Deep • Accurate”</strong><br>
   <em style="color:#ff00aa;">Scan • Intel • Explore • Dominate</em>
 </p><p align="center">
-  <a href="https://github.com/NeoZoneHub/ReconHub"><img src="https://img.shields.io/badge/GitHub-ReconHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/NeoZoneHub/ReconHub"><img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTRvOWd6bmd0M3VyeHU0aWtienNtemFja21tczIyOG8xM3hmM214bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" alt="GitHub"></a>
 </p>
