@@ -68,13 +68,13 @@ python reconhub.py
 
 🎨 UI & Animations
 
-Menu principal numéroté avec navigation fluide
+> Menu principal numéroté avec navigation fluide
 
-Affichage rich tables et panels pour chaque module
+> Affichage rich tables et panels pour chaque module
 
-Output coloré et structuré, compatible Termux et Windows Terminal
+> Output coloré et structuré, compatible Termux et Windows Terminal
 
-Auto-loader détecte tous les modules du dossier modules/
+> Auto-loader détecte tous les modules du dossier modules/
 
 💻 Animations ASCII/GIF et badges pour UX futuriste
 
